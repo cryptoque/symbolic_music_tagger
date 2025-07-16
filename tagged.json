@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Piano Sonata No. 32 in C minor, Op. 111",
+    "composer": "Beethoven",
+    "performer": "Sviatoslav Richter",
+    "form": "sonata",
+    "duration_min": 27,
+    "key": "C minor",
+    "structure": [
+      "Maestoso",
+      "Arietta",
+      "Fugue"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Clear & Somber",
+      "Miniature Form",
+      "Structured Complexity",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Piano Sonata in B-flat major, D. 960",
+    "composer": "Schubert",
+    "performer": "Sviatoslav Richter",
+    "form": "sonata",
+    "duration_min": 50,
+    "key": "B-flat major",
+    "structure": [
+      "Molto moderato",
+      "Andante sostenuto",
+      "Scherzo",
+      "Allegro ma non troppo"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Miniature Form",
+      "Steady Walk",
+      "Flowing Motion",
+      "Rhythmic Instability",
+      "Energetic Pulse",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Intermezzo in A major, Op. 118 No. 2",
+    "composer": "Brahms",
+    "performer": "Radu Lupu",
+    "form": "intermezzo",
+    "duration_min": 5,
+    "key": "A major",
+    "structure": [
+      "Andante teneramente"
+    ],
+    "tags": [
+      "Tender & Personal",
+      "Joyful & Open",
+      "Miniature Form",
+      "Flowing Motion",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Piano Sonata No. 32 in C minor, Op. 111",
+    "composer": "Beethoven",
+    "performer": "Wilhelm Kempff",
+    "form": "sonata",
+    "duration_min": 25,
+    "key": "C minor",
+    "structure": [
+      "Maestoso",
+      "Arietta"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Clear & Somber",
+      "Miniature Form"
+    ]
+  },
+  {
+    "title": "Impromptu in G-flat major, Op. 90 No. 3",
+    "composer": "Schubert",
+    "performer": "Alfred Brendel",
+    "form": "impromptu",
+    "duration_min": 6,
+    "key": "G-flat major",
+    "structure": [
+      "Andante"
+    ],
+    "tags": [
+      "Spontaneous Nostalgia",
+      "Miniature Form",
+      "Flowing Motion",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Die Kunst der Fuge, BWV 1080",
+    "composer": "J.S. Bach",
+    "performer": "Glenn Gould",
+    "form": "fugue",
+    "duration_min": 70,
+    "key": "D minor",
+    "structure": [
+      "Fugue"
+    ],
+    "tags": [
+      "Structured Complexity",
+      "Tragic Grandeur",
+      "Miniature Form",
+      "Structured Complexity",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Piano Sonata in B-flat major, D. 960",
+    "composer": "Schubert",
+    "performer": "Alfred Brendel",
+    "form": "sonata",
+    "duration_min": 40,
+    "key": "B-flat major",
+    "structure": [
+      "Molto moderato",
+      "Andante sostenuto",
+      "Scherzo",
+      "Allegro ma non troppo"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Miniature Form",
+      "Steady Walk",
+      "Flowing Motion",
+      "Rhythmic Instability",
+      "Energetic Pulse",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "F-A-E Sonata: III. Scherzo in C minor",
+    "composer": "Brahms",
+    "performer": "Leonidas Kavakos & Yuja Wang",
+    "form": "sonata",
+    "duration_min": 6,
+    "key": "C minor",
+    "structure": [
+      "Scherzo"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Clear & Somber",
+      "Miniature Form",
+      "Rhythmic Instability"
+    ]
+  },
+  {
+    "title": "Silent Woods, Op. 68 No. 5",
+    "composer": "Dvořák",
+    "performer": "Mischa Maisky",
+    "form": "",
+    "duration_min": 6,
+    "key": "E major",
+    "structure": [
+      "Lento"
+    ],
+    "tags": [
+      "Radiant Warmth",
+      "Miniature Form",
+      "Calm & Slow"
+    ]
+  }
+]
