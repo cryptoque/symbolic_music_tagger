@@ -1,18 +1,34 @@
 # Symbolic Classical Music Tagger
 
-**What if we could search classical music not by genre, but by feelings it evoked based on its keys, structure, and interpretive style?**
+**What if we could search classical music not by genre, but by feelings it evokes - drawn from its keys, forms, structure, and interpretive style?**
 
-It’s a tool for enriching classical piano metadata with **symbolic tags** e.g. “Tender & Personal”, “Tragic Grandeur”, “Structured Complexity”, to make emotional and intellectual browsing possible. 
+Most classical metadata today fails to capture why we listen. Even platforms like Apple Music Classical stop at keys, durations, composer, performer…
 
-This tool also helps translate the feelings you are looking for to symbolic tags, e.g.
+But they don’t let us find “Schubert, sad but tender” or “Beethoven, existential with volcanic drive.”
+
+This tool builds a symbolic layer over traditional metadata—bridging emotional, structural, and interpretive dimensions.
+
+## What it does
+It enriches classical music metadata with symbolic tags like:
+
+- Tender & Personal
+- Tragic Grandeur
+- Structured Complexity
+
+This makes emotional and intellectual browsing possible in a way no existing platform offers.
+
+## Example: Translating Feelings Into Symbols
+
+When you search for “melancholy”, it maps to:
 
 ```
-    "romantic": [
-        "Joyful & Open",
-        "Tender & Personal",
-        "Spontaneous Nostalgia"
+    "melancholy": [
+        "Clear & Somber",
+        "Calm & Slow",
+        "Tragic Grandeur"
     ],
 ```
+So you’ll surface pieces across composers and eras that share this emotional landscape.
 
 ---
 
@@ -60,11 +76,5 @@ Example query:
 [INFO] Search for composer, performer or title (optional): schubert
 [INFO] Filter for feelings (comma-separated, optional): sad, reverent
 ```
----
 
-## Why This Exists
-
-Classical metadata is poor at expressing why we listen. Even specialized classical music streaming platforms like Apple music classical only offer keys, durations, composer, performer...But they don’t let us find “Schubert, sad but tender” or “Beethoven, existential with volcanic drive.”
-
-This tool builds a symbolic layer bridging music’s emotional, structural, and interpretive dimensions.
 
