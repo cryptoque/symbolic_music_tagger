@@ -74,7 +74,7 @@ Example query:
 
 ```
 [INFO] Search for composer, performer or title (optional): schubert
-[INFO] Filter for feelings (comma-separated, optional): sad, reverent
+[INFO] Filter for feelings (comma-separated, optional): slow, introspective
 ```
 
 *requires python 3.8+, no external dependencies*
