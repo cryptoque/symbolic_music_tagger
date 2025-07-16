@@ -77,4 +77,4 @@ Example query:
 [INFO] Filter for feelings (comma-separated, optional): sad, reverent
 ```
 
-
+*requires python 3.8+, no external dependencies*
