@@ -73,9 +73,14 @@ You will be prompted for the following:
 Example query:
 
 ```
-[INFO] Search for composer, performer or title (optional): schubert
+[INFO] Search for composer, performer or title (optional): richter
 [INFO] Filter for feelings (comma-separated, optional): slow, introspective
 ```
+
+Example result in CLI:
+
+<img width="618" height="446" alt="Screenshot 2025-07-16 at 4 11 57 PM" src="https://github.com/user-attachments/assets/d201c995-7c56-436e-af7d-1288bdc430a8" />
+
 
 *requires python 3.8+, no external dependencies*
 
