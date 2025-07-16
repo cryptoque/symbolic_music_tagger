@@ -1,17 +1,27 @@
 # Symbolic Classical Music Tagger
 
-*What if we could search classical music not by genre, but by feelings it evoked based on its keys, structure, and interpretive style?*
+**What if we could search classical music not by genre, but by feelings it evoked based on its keys, structure, and interpretive style?**
 
-It’s a tool for enriching classical piano metadata with **symbolic tags** — like *“Tender & Personal”*, *“Tragic Grandeur”*, *“Structured Complexity”*—to make emotional and intellectual browsing possible.
+It’s a tool for enriching classical piano metadata with **symbolic tags** e.g. “Tender & Personal”, “Tragic Grandeur”, “Structured Complexity”, to make emotional and intellectual browsing possible. 
+
+This tool also helps translate the feelings you are looking for to symbolic tags, e.g.
+
+```
+    "romantic": [
+        "Joyful & Open",
+        "Tender & Personal",
+        "Spontaneous Nostalgia"
+    ],
+```
 
 ---
 
 ## How to Use
 
-### Add Your Pieces, or use existing pieces library inside data folder
-- Place `.json` files describing pieces in the `data/` folder.  
-  Example:
-  ```json
+### Add your classical pieces, or use the existing library inside data folder
+- Place `.json` files describing pieces in the `data/` folder. For example:
+
+```json
   {
     "title": "Piano Sonata No. 32 in C minor, Op. 111",
     "composer": "Beethoven",
@@ -41,6 +51,7 @@ python3 search.py
 You will be prompted for the following:
 
 > Enter a composer/title/performer (optional).
+
 > Select from a list of feelings (optional).
 
 Example query:
