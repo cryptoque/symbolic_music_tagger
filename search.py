@@ -30,10 +30,6 @@ def match_query(piece, query_main, query_feelings_terms):
     if query_feelings_terms:
         piece_tags = [tag.lower() for tag in piece.get("tags", [])]
         expanded_feelings = expand_query_terms(query_feelings_terms)
-        for feeling in expanded_feelings:
-            print("Search: ", feeling)
-        for feeling in piece_tags:
-            print("Tags: ", feeling)
         if not any(feeling in piece_tags for feeling in expanded_feelings):
             matched = False
 
@@ -42,8 +38,13 @@ def match_query(piece, query_main, query_feelings_terms):
 def main():
     with open("tagged.json", "r", encoding="utf-8") as f:
         pieces = json.load(f)
-
+        
     query_main = input("[INFO] Search for composer, performer or title: ").strip()
+    print("\n🎼 Available feelings to filter by:")
+    for feeling in sorted(EMOTION_TO_SYMBOLIC.keys()):
+        print(f" - {feeling}")
+    print()
+
     query_feelings = input("[INFO] Filter for feelings: ").strip()
     query_feelings_terms = query_feelings.split() if query_feelings else []
     
@@ -54,13 +55,13 @@ def main():
     results = [p for p in pieces if match_query(p, query_main, query_feelings_terms)]
 
     print(f"[INFO] Found {len(results)} result(s):")
-    print(f"[DATA] *****************************************")
+    print(f"*****************************************")
     for piece in results:
-        print(f"[DATA] Title: {piece.get('title')}")
-        print(f"[DATA] Composer: {piece.get('composer')}")
-        print(f"[DATA] Performer: {piece.get('performer')}")
-        print(f"[DATA] Tags: {', '.join(piece.get('tags', []))}")
-        print(f"[DATA] *****************************************")
+        print(f"🎼 Title: {piece.get('title')}")
+        print(f"🎼 Composer: {piece.get('composer')}")
+        print(f"🎼 Performer: {piece.get('performer')}")
+        print(f"🎼 Tags: {', '.join(piece.get('tags', []))}")
+        print(f"*****************************************")
 
 if __name__ == "__main__":
     main()

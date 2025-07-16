@@ -1,5 +1,48 @@
 [
   {
+    "title": "Ballade No. 1 in G minor, Op. 23",
+    "composer": "Chopin",
+    "performer": "Maurizio Pollini",
+    "form": "ballade",
+    "duration_min": 9,
+    "key": "G minor",
+    "structure": [
+      "Lento",
+      "Moderato",
+      "Presto con fuoco"
+    ],
+    "tags": [
+      "Storytelling Intensity",
+      "Solemn Intensity",
+      "Miniature Form",
+      "Calm & Slow",
+      "Steady Walk",
+      "Frenzied Momentum",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Piano Sonata No. 31 in A-flat major, Op. 110",
+    "composer": "Beethoven",
+    "performer": "John Barbirolli",
+    "form": "sonata",
+    "duration_min": 24,
+    "key": "A flat major",
+    "structure": [
+      "Moderato cantabile molto espressivo",
+      "Allegro molto",
+      "Adagio ma non troppo: Fuga"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Lyrical Stained Glass",
+      "Miniature Form",
+      "Steady Walk",
+      "Energetic Pulse",
+      "Reflective Tempo"
+    ]
+  },
+  {
     "title": "Piano Sonata No. 32 in C minor, Op. 111",
     "composer": "Beethoven",
     "performer": "Sviatoslav Richter",
@@ -20,12 +63,30 @@
     ]
   },
   {
+    "title": "Fantasy in C major, Op. 17",
+    "composer": "Schumann",
+    "performer": "Krystian Zimerman",
+    "form": "fantasy",
+    "duration_min": 28,
+    "key": "C major",
+    "structure": [
+      "Durchaus phantastisch und leidenschaftlich vorzutragen",
+      "Mäßig. Durchaus energisch",
+      "Langsam getragen. Durchweg leise zu halten"
+    ],
+    "tags": [
+      "Freely Shifting Emotion",
+      "Pure & Noble",
+      "Miniature Form"
+    ]
+  },
+  {
     "title": "Piano Sonata in B-flat major, D. 960",
     "composer": "Schubert",
     "performer": "Sviatoslav Richter",
     "form": "sonata",
     "duration_min": 50,
-    "key": "B-flat major",
+    "key": "B flat major",
     "structure": [
       "Molto moderato",
       "Andante sostenuto",
@@ -34,12 +95,30 @@
     ],
     "tags": [
       "Long Emotional Journey",
+      "Earthy Nobility",
       "Miniature Form",
       "Steady Walk",
       "Flowing Motion",
       "Rhythmic Instability",
       "Energetic Pulse",
       "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Variations on a Theme of Corelli, Op. 42",
+    "composer": "Rachmaninoff",
+    "performer": "Arcadi Volodos",
+    "form": "variations",
+    "duration_min": 20,
+    "key": "D minor",
+    "structure": [
+      "Theme",
+      "20 Variations",
+      "Coda"
+    ],
+    "tags": [
+      "Tragic Grandeur",
+      "Miniature Form"
     ]
   },
   {
@@ -58,6 +137,38 @@
       "Miniature Form",
       "Flowing Motion",
       "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Images, Book 2",
+    "composer": "Debussy",
+    "performer": "Miloš Arsenijević",
+    "form": "suite",
+    "duration_min": 15,
+    "key": "Various",
+    "structure": [
+      "Cloches à travers les feuilles",
+      "Et la lune descend sur le temple qui fut",
+      "Poissons d'or"
+    ],
+    "tags": [
+      "Miniature Form"
+    ]
+  },
+  {
+    "title": "Nocturne No. 6 in D-flat major, Op. 63",
+    "composer": "Gabriel Fauré",
+    "performer": "Jean-Philippe Collard",
+    "form": "nocturne",
+    "duration_min": 8,
+    "key": "D flat major",
+    "structure": [
+      "Andante"
+    ],
+    "tags": [
+      "Intimate & Dreamlike",
+      "Miniature Form",
+      "Flowing Motion"
     ]
   },
   {
@@ -83,7 +194,7 @@
     "performer": "Alfred Brendel",
     "form": "impromptu",
     "duration_min": 6,
-    "key": "G-flat major",
+    "key": "G flat major",
     "structure": [
       "Andante"
     ],
@@ -113,12 +224,115 @@
     ]
   },
   {
+    "title": "Goldberg Variations, BWV 988",
+    "composer": "J.S. Bach",
+    "performer": "Glenn Gould (1981)",
+    "form": "aria and variations",
+    "duration_min": 78,
+    "key": "G major",
+    "structure": [
+      "Aria",
+      "30 Variations",
+      "Aria da capo"
+    ],
+    "tags": [
+      "Peaceful Confidence",
+      "Miniature Form",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Bénédiction de Dieu dans la solitude",
+    "composer": "Liszt",
+    "performer": "Emil Gilels",
+    "form": "consolation",
+    "duration_min": 15,
+    "key": "E major",
+    "structure": [
+      "Andante con moto"
+    ],
+    "tags": [
+      "Radiant Warmth",
+      "Miniature Form",
+      "Flowing Motion",
+      "Structured Complexity"
+    ]
+  },
+  {
+    "title": "Piano Sonata in A major, D. 959",
+    "composer": "Schubert",
+    "performer": "Leif Ove Andsnes",
+    "form": "sonata",
+    "duration_min": 40,
+    "key": "A major",
+    "structure": [
+      "Allegro",
+      "Andantino",
+      "Scherzo: Allegro vivace",
+      "Rondo: Allegretto"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Joyful & Open",
+      "Miniature Form",
+      "Energetic Pulse",
+      "Energetic Pulse",
+      "Lively Drive",
+      "Rhythmic Instability"
+    ]
+  },
+  {
+    "title": "Piano Sonata in G major, D. 894 “Fantasie”",
+    "composer": "Schubert",
+    "performer": "Maria João Pires",
+    "form": "sonata",
+    "duration_min": 38,
+    "key": "G major",
+    "structure": [
+      "Molto moderato e cantabile",
+      "Andante",
+      "Menuetto: Allegro moderato",
+      "Allegretto"
+    ],
+    "tags": [
+      "Long Emotional Journey",
+      "Peaceful Confidence",
+      "Miniature Form",
+      "Steady Walk",
+      "Flowing Motion",
+      "Steady Walk",
+      "Energetic Pulse"
+    ]
+  },
+  {
+    "title": "Kreisleriana, Op. 16",
+    "composer": "Schumann",
+    "performer": "Murray Perahia",
+    "form": "character pieces",
+    "duration_min": 30,
+    "key": "D minor",
+    "structure": [
+      "Äußerst bewegt",
+      "Sehr innig und nicht zu rasch",
+      "Sehr aufgeregt",
+      "Sehr langsam",
+      "Sehr lebhaft",
+      "Sehr langsam",
+      "Sehr rasch",
+      "Schnell und spielend"
+    ],
+    "tags": [
+      "Tragic Grandeur",
+      "Miniature Form"
+    ]
+  },
+  {
     "title": "Piano Sonata in B-flat major, D. 960",
     "composer": "Schubert",
     "performer": "Alfred Brendel",
     "form": "sonata",
     "duration_min": 40,
-    "key": "B-flat major",
+    "key": "B flat major",
     "structure": [
       "Molto moderato",
       "Andante sostenuto",
@@ -127,6 +341,7 @@
     ],
     "tags": [
       "Long Emotional Journey",
+      "Earthy Nobility",
       "Miniature Form",
       "Steady Walk",
       "Flowing Motion",
@@ -150,6 +365,22 @@
       "Clear & Somber",
       "Miniature Form",
       "Rhythmic Instability"
+    ]
+  },
+  {
+    "title": "Poème in F-sharp major, Op. 32 No. 1",
+    "composer": "Scriabin",
+    "performer": "Grigory Sokolov",
+    "form": "poem",
+    "duration_min": 3,
+    "key": "F sharp major",
+    "structure": [
+      "Andante cantabile"
+    ],
+    "tags": [
+      "Dazzling Structure",
+      "Miniature Form",
+      "Flowing Motion"
     ]
   },
   {
