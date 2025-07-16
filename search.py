@@ -1,5 +1,6 @@
 import json
 from emotional_map import EMOTION_TO_SYMBOLIC
+from symbolic_tags import PERFORMER_TAGS
 
 def expand_query_terms(terms):
     """Expand feeling words to their symbolic tag equivalents."""
@@ -39,7 +40,13 @@ def main():
     with open("tagged.json", "r", encoding="utf-8") as f:
         pieces = json.load(f)
         
-    query_main = input("[INFO] Search for composer, performer or title: ").strip()
+    print("\n🎼 Available performers to filter by:")
+    for performer in sorted(PERFORMER_TAGS.keys()):
+        print(f" - {performer}")
+    print()
+    
+    query_main = input("[INFO] Search for composer, performer or title (option, return to skip): ").strip()
+    
     print("\n🎼 Available feelings to filter by:")
     for feeling in sorted(EMOTION_TO_SYMBOLIC.keys()):
         print(f" - {feeling}")

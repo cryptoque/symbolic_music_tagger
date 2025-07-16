@@ -12,13 +12,13 @@
       "Presto con fuoco"
     ],
     "tags": [
-      "Storytelling Intensity",
-      "Solemn Intensity",
       "Miniature Form",
-      "Calm & Slow",
-      "Steady Walk",
       "Frenzied Momentum",
-      "Structured Complexity"
+      "Structured Complexity",
+      "Steady Walk",
+      "Calm & Slow",
+      "Storytelling Intensity",
+      "Solemn Intensity"
     ]
   },
   {
@@ -34,11 +34,11 @@
       "Adagio ma non troppo: Fuga"
     ],
     "tags": [
+      "Miniature Form",
+      "Energetic Pulse",
+      "Steady Walk",
       "Long Emotional Journey",
       "Lyrical Stained Glass",
-      "Miniature Form",
-      "Steady Walk",
-      "Energetic Pulse",
       "Reflective Tempo"
     ]
   },
@@ -56,10 +56,9 @@
     ],
     "tags": [
       "Long Emotional Journey",
-      "Clear & Somber",
-      "Miniature Form",
       "Structured Complexity",
-      "Structured Complexity"
+      "Miniature Form",
+      "Clear & Somber"
     ]
   },
   {
@@ -76,8 +75,8 @@
     ],
     "tags": [
       "Freely Shifting Emotion",
-      "Pure & Noble",
-      "Miniature Form"
+      "Miniature Form",
+      "Pure & Noble"
     ]
   },
   {
@@ -94,14 +93,14 @@
       "Allegro ma non troppo"
     ],
     "tags": [
-      "Long Emotional Journey",
-      "Earthy Nobility",
       "Miniature Form",
-      "Steady Walk",
-      "Flowing Motion",
-      "Rhythmic Instability",
       "Energetic Pulse",
-      "Structured Complexity"
+      "Earthy Nobility",
+      "Flowing Motion",
+      "Structured Complexity",
+      "Steady Walk",
+      "Long Emotional Journey",
+      "Rhythmic Instability"
     ]
   },
   {
@@ -132,11 +131,11 @@
       "Andante teneramente"
     ],
     "tags": [
-      "Tender & Personal",
-      "Joyful & Open",
       "Miniature Form",
+      "Structured Complexity",
       "Flowing Motion",
-      "Structured Complexity"
+      "Joyful & Open",
+      "Tender & Personal"
     ]
   },
   {
@@ -166,9 +165,9 @@
       "Andante"
     ],
     "tags": [
-      "Intimate & Dreamlike",
+      "Flowing Motion",
       "Miniature Form",
-      "Flowing Motion"
+      "Intimate & Dreamlike"
     ]
   },
   {
@@ -184,8 +183,8 @@
     ],
     "tags": [
       "Long Emotional Journey",
-      "Clear & Somber",
-      "Miniature Form"
+      "Miniature Form",
+      "Clear & Somber"
     ]
   },
   {
@@ -200,8 +199,8 @@
     ],
     "tags": [
       "Spontaneous Nostalgia",
-      "Miniature Form",
       "Flowing Motion",
+      "Miniature Form",
       "Structured Complexity"
     ]
   },
@@ -216,11 +215,9 @@
       "Fugue"
     ],
     "tags": [
-      "Structured Complexity",
       "Tragic Grandeur",
-      "Miniature Form",
       "Structured Complexity",
-      "Structured Complexity"
+      "Miniature Form"
     ]
   },
   {
@@ -237,8 +234,8 @@
     ],
     "tags": [
       "Peaceful Confidence",
-      "Miniature Form",
-      "Structured Complexity"
+      "Structured Complexity",
+      "Miniature Form"
     ]
   },
   {
@@ -252,10 +249,10 @@
       "Andante con moto"
     ],
     "tags": [
-      "Radiant Warmth",
-      "Miniature Form",
       "Flowing Motion",
-      "Structured Complexity"
+      "Miniature Form",
+      "Structured Complexity",
+      "Radiant Warmth"
     ]
   },
   {
@@ -272,13 +269,12 @@
       "Rondo: Allegretto"
     ],
     "tags": [
-      "Long Emotional Journey",
-      "Joyful & Open",
       "Miniature Form",
       "Energetic Pulse",
-      "Energetic Pulse",
-      "Lively Drive",
-      "Rhythmic Instability"
+      "Joyful & Open",
+      "Rhythmic Instability",
+      "Long Emotional Journey",
+      "Lively Drive"
     ]
   },
   {
@@ -295,13 +291,12 @@
       "Allegretto"
     ],
     "tags": [
-      "Long Emotional Journey",
-      "Peaceful Confidence",
       "Miniature Form",
-      "Steady Walk",
+      "Energetic Pulse",
+      "Peaceful Confidence",
       "Flowing Motion",
       "Steady Walk",
-      "Energetic Pulse"
+      "Long Emotional Journey"
     ]
   },
   {
@@ -340,14 +335,14 @@
       "Allegro ma non troppo"
     ],
     "tags": [
-      "Long Emotional Journey",
-      "Earthy Nobility",
       "Miniature Form",
-      "Steady Walk",
-      "Flowing Motion",
-      "Rhythmic Instability",
       "Energetic Pulse",
-      "Structured Complexity"
+      "Earthy Nobility",
+      "Flowing Motion",
+      "Structured Complexity",
+      "Steady Walk",
+      "Long Emotional Journey",
+      "Rhythmic Instability"
     ]
   },
   {
@@ -362,8 +357,8 @@
     ],
     "tags": [
       "Long Emotional Journey",
-      "Clear & Somber",
       "Miniature Form",
+      "Clear & Somber",
       "Rhythmic Instability"
     ]
   },
@@ -378,9 +373,9 @@
       "Andante cantabile"
     ],
     "tags": [
-      "Dazzling Structure",
+      "Flowing Motion",
       "Miniature Form",
-      "Flowing Motion"
+      "Dazzling Structure"
     ]
   },
   {
@@ -394,9 +389,9 @@
       "Lento"
     ],
     "tags": [
-      "Radiant Warmth",
       "Miniature Form",
-      "Calm & Slow"
+      "Calm & Slow",
+      "Radiant Warmth"
     ]
   }
 ]

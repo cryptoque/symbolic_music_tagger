@@ -1,6 +1,6 @@
 # Symbolic Classical Music Tagger
 
-**What if we could search classical music not by genre, but by feelings it evokes - drawn from its keys, forms, structure, and interpretive style?**
+**What if we could search classical music not by genre or composer, but by the feelings it evokes - drawn from its keys, forms, structure, and interpretive style?**
 
 Most classical metadata today fails to capture why we listen. Even platforms like Apple Music Classical stop at keys, durations, composer, performer…
 
@@ -78,3 +78,9 @@ Example query:
 ```
 
 *requires python 3.8+, no external dependencies*
+
+--- 
+
+## Note
+
+This is a hobby project and not intended for production use.

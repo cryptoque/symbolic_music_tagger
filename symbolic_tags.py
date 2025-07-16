@@ -140,7 +140,9 @@ PERFORMER_TAGS = {
 
 
 def get_tags(piece: dict) -> list[str]:
-    """Given a piece's metadata, return symbolic tags."""
+    """
+    Generate symbolic tags for a classical music piece based on its metadata.
+    """
     tags = []
 
     form = piece.get("form", "").lower()
@@ -180,4 +182,4 @@ def get_tags(piece: dict) -> list[str]:
         if name in performer:
             tags.append(tag)
     
-    return tags
+    return list(set(tags))
